@@ -1,1 +1,0 @@
-github test입니다.
